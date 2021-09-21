@@ -1,30 +1,30 @@
 .speech {
-    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-family: LADY WINDERMERE, MRS ERLYNNE;
     font-size: 15px;
-    color: black;
+    color: rgb(160, 60, 60);
 }
 
 .stage_directions{
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-family: LADY WINDERMERE, MRS ERLYNNE;
     font-size: 20px;
     background-color:rgb(183, 240, 160);
-    color: black;
+    color: rgb(45, 26, 131);
 }
 
 .name{
-    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-family: LADY WINDERMERE, MRS ERLYNNE;
     font-size: 25px;
-    color: rgb(172, 19, 19);
+    color: rgb(19, 172, 147);
 }
  p:hover{
     background-color: lightcoral;
-    color: rgb(91, 158, 91);
+    color: rgb(187, 33, 128);
 }
 
 .LORD_GORING{
-    color: rgb(145, 78, 223);
+    color: rgb(105, 21, 194);
 }   
 
 .JAMES{
-    color:rgb(34, 158, 180);
+    color:rgb(142, 153, 90);
 }
