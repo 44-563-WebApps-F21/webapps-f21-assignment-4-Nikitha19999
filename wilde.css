@@ -28,3 +28,24 @@
 .MRS ERLYNNE{
     color:rgb(142, 153, 90);
 }
+#tableStyle{
+    border-style: dashed;
+    border-color:rgb(196, 178, 21);
+    text-align: center;
+    margin: 25px 0px 0px 350px;
+}
+
+tr:nth-child(even) {background-color: rgb(116, 94, 78);}
+
+ .columnNrow{
+    border-style: double;
+    border-color: rgb(73, 41, 41);
+    padding: 15px;
+}
+
+h6:hover{
+    
+    text-shadow: 2px 2px rgb(163, 72, 163);
+    border-style: groove;
+    border-color: rgb(19, 137, 235);
+}
